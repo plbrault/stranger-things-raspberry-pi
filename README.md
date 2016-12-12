@@ -60,7 +60,7 @@ z => GPIO21
 ## Software Setup
 
 1. Clone this repository to your Raspberry Pi
-2. `cd stranger-things-pi`
+2. `cd stranger-things-raspberry-pi`
 3. `python3 main.py`
 
 
