@@ -23,7 +23,7 @@ Refer to the following pin mapping:
 
 ![Raspberry Pi 3 Pinout](https://gpiozero.readthedocs.io/en/v1.3.1/_images/pin_layout.svg)
 
-Each LED should have its anode connected to a GPIO pin, and its cathode connected to a Ground pin, **with a limiting resistor** connected on either side of the LED.
+Each LED should have its anode connected to a GPIO pin, and its cathode connected to a Ground pin, **with a limiting resistor** connected somewhere between the LED and the Raspberry Pi.
 
 Every letter of the alphabet is mapped to a specific GPIO pin:
 
